@@ -1,1 +1,1 @@
-# Curtis-sim
+Text game where you roleplay as a techer.
